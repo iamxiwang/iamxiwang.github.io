@@ -148,3 +148,66 @@ header.p-section {
   padding: 0 0.25em;
   bottom: 0.2em;
 }
+.technology{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:flex-start;
+  align-items: center;
+}
+#Ruby, #Rails,#Express, #Javascript, 
+#React, #Redux, #MongoDB,#AWS, #Node, 
+#API, #html,#css, #design, #google, #data{
+ 
+    margin:5px;
+    padding:2px 9px 4px 9px;
+    border-radius: 4px;
+}
+#Ruby{
+  background-color: pink;
+}
+#Rails{
+  background-color: aquamarine;
+}
+#Javascript{
+  background-color: bisque;
+}
+#React{
+  background-color:yellow;
+}
+#Redux{
+  background-color: wheat;
+}
+#Express{
+  background-color:darkseagreen;
+  color: white;
+}
+#MongoDB{
+  background-color: khaki;
+}
+#AWS{
+  background-color: thistle;
+}
+#Node{
+  background-color:gold ;
+}
+#API{
+  background-color:sandybrown;
+  color: white;
+}
+#html{
+  background-color: lavender;
+}
+#css{
+  background-color:linen;
+}
+#design{
+  background-color:lightcyan;
+}
+#google{
+  background-color:olive;
+  color:white;
+
+}
+#data{
+  background-color: peachpuff;
+}
